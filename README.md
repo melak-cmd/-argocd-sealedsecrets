@@ -1,1 +1,1 @@
-# -argocd-sealedsecrets
+"Sealed Secrets" for Kubernetes
