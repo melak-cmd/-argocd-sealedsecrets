@@ -1,1 +1,1 @@
-"Sealed Secrets" for Kubernetes
+# "Sealed Secrets" for Kubernetes
